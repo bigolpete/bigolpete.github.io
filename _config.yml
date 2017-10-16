@@ -1,14 +1,14 @@
 utc: "2017-10-21 0:00:00 -0600" #Required. The start time of the event. Best to use UTC format, but may work in other date formats too.
-name: "Rob and Lauren's wedding day!" #Required. The human-readable name of the event
-logo: logo.png #Required. logo for the event. replace this logo in the project or add a new file and change the value of this variable
-description: "Countdown until our wedding day! Get pumped!" #Required. short description of the event. this is used in the preview when the link is shared on facebook
+name: "Rob's not wearing pants all day" #Required. The human-readable name of the event
+logo: logo.jpg #Required. logo for the event. replace this logo in the project or add a new file and change the value of this variable
+description: "Countdown until no pants day!" #Required. short description of the event. this is used in the preview when the link is shared on facebook
 externalLink: "http://yourdomain.com" #Required. link to the main event page. this could be a webpage, a facebook event, an eventbrite page, where ever the main webpage is for your event
 url: "http://countdown.yourdomain.com" #(Optional) the full URL for this countdown page. This is neccesary for facebook share previews
 facebookEventLink: #(Optional) if you have a facebook event, put the link here and we'll add a "RSVP on facebook" link at the bottom.
 hashtag: "" #(Optional) hashtag for the event, example "#hashtag". must be in quotes.
 colors: #(Optional)
-  background: "#FDFFD1" #color of the background of the page
-  primary: "#007D44" #primary color for the page
-  secondary: "#995F02" #secondary color for the page
-  textcolor: "#FFC7FE" #color of the text, which is overlayed on the primary color
+  background: "#D62929" #color of the background of the page
+  primary: "#C2E5E5" #primary color for the page
+  secondary: "#4CB3B3" #secondary color for the page
+  textcolor: "#1A3D3D" #color of the text, which is overlayed on the primary color
 fontfamily: "'Open Sans', sans-serif" #optional
